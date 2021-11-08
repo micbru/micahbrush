@@ -5,9 +5,12 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
-font: ''
+# minimal is default
+theme: forest
+# Set to true to give user preference, otherwise according to theme
+day_night: false
+# leave blank if no change desired ''
+font: 'Classic'
 font_size: L
 
 # SEO
@@ -20,40 +23,43 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: mbrush (at) ualberta (dot) ca
+phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Department of Mathematical and Statistical Sciences, University of Alberta
+  city: Edmonton
+  region: AB
+  postcode:
+  country: Canada
+  country_code: CA
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: ''
+  longitude: ''
+directions: 
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+#- 'Monday 10:00 to 13:00'
+appointment_url:
 contact_links:
+  - icon: google-scholar
+    icon_pack: ai
+    name: Google Scholar
+    link: 'https://scholar.google.com/citations?user=wX82aN8AAAAJ&hl=en'
+  - icon: orcid
+    icon_pack: ai
+    name: Orcid
+    link: 'https://orcid.org/0000-0002-3664-6327'
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Twitter
+    link: 'https://twitter.com/MicahBrush'
+  - icon: linkedin
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: LinkedIn
+    link: 'https://linkedin.com/in/micah-brush'
+  - icon: github
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: GitHub
+    link: 'https://github.com/micbru'
 
 # Site header
 
@@ -62,14 +68,14 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
 # Localization
 
 date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+time_format: '15:04'
 address_format: en-us
 
 # Site features
@@ -79,7 +85,7 @@ highlight_languages:
   - r
   - python
   - latex
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
@@ -97,7 +103,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
@@ -157,4 +163,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
