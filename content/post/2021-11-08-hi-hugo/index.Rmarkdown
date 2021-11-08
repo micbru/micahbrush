@@ -1,0 +1,33 @@
+---
+title: Hi Hugo
+author: Package Build
+date: '2021-11-08'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-11-08T12:39:41-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+This is a summary of the orange data set:
+```{r}
+summary(Orange)
+```
+Now let's plot something:
+```{r echo=FALSE}
+library(ggplot2)
+ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   color = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(color = "none") +
+  theme_bw()
+```
