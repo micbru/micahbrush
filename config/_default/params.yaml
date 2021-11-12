@@ -10,8 +10,9 @@ theme: forest
 # Set to true to give user preference, otherwise according to theme
 day_night: false
 # leave blank if no change desired ''
-font: 'Classic'
-font_size: L
+font: 
+#'Classic'
+font_size: l
 
 # SEO
 
@@ -26,7 +27,9 @@ twitter: ''
 email: mbrush (at) ualberta (dot) ca
 phone: 
 address:
-  street: Department of Mathematical and Statistical Sciences, University of Alberta
+  street: Department of Mathematical and Statistical Sciences
+          <br>
+          University of Alberta
   city: Edmonton
   region: AB
   postcode:
@@ -106,7 +109,7 @@ show_related:
 reading_time: false
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -164,3 +167,9 @@ cms:
 icon:
   pack:
     ai: true
+    
+# link_authors=false
+
+#[publications]
+#  disable_links_title=true
+#  disable_links_authors=true

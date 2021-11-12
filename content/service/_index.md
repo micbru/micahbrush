@@ -1,8 +1,10 @@
 ---
-cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Posts
+title: Service
+type: page
 view: 2
 ---
+
+RPR stuff goes here!
