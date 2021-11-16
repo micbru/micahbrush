@@ -56,8 +56,10 @@ superuser: true
 title: Micah Brush
 ---
 <br>
-<br>
 I am a postdoctoral fellow in the Lewis Research Group at the University of Alberta in the Department of Mathematical and Statistical Sciences. I am interested in theoretical and spatial ecology, particularly across time and spatial scales. I am currently working on mountain pine beetle dynamics, developing models to study how resistant trees affect their spread, as well as the effects of climate change and warming temperatures. My other projects are in macroecology, studying how species’ spatial distributions can be described at large scales.
 <br>
 <br>
-My CV is available {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}} (updated ???).
+I completed my PhD in physics at UC Berkeley with Prof. John Harte. In my dissertation, “Macroecological patterns out of steady state”, I studied how ecological disturbance affects macroecological patterns, and how hybridizing information theory and mechanism can be used to describe these effects. Before that, I completed my MASt (Part III) at Cambridge University, and my undergrad in physics at Simon Fraser University.
+<br>
+<br>
+My CV is available {{< staticref "uploads/CVNov2021.pdf" "newtab" >}}here{{< /staticref >}} (updated November 2021).

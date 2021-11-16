@@ -9,7 +9,7 @@ view: 4
 ---
 
 ## Preprints
-1. **Brush, M.**, Matthews, T.J., Borges, P.A.V., & Harte, J. (2021) [Land use, macroecology, and the accuracy of the Maximum Entropy Theory of Ecology: A case study of Azorean arthropods.](https://doi.org/10.1101/2021.09.14.460355) bioRxiv 2021.09.14.460355; 
+1. **Brush, M.**, Matthews, T.J., Borges, P.A.V., & Harte, J. (2021) [Land use, macroecology, and the accuracy of the Maximum Entropy Theory of Ecology: A case study of Azorean arthropods.](https://doi.org/10.1101/2021.09.14.460355) bioRxiv 2021.09.14.460355.
 
 ## Peer-reviewed publications
 1. Kitzes, J., **Brush, M.**, & Walters, K. (2021). [A unified framework for species spatial patterns: Linking the occupancy area curve, Taylor’s Law, the neighborhood density function and two‐plot species turnover.](https://doi.org/10.1111/ele.13788) Ecology Letters, 24(10), 2043–2053.
