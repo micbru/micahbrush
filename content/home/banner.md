@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Theoretical ecology across space and time
+title: Combining data and mechanism for predictive ecology
 subtitle:
 
 design:
