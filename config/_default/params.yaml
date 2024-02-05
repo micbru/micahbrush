@@ -24,14 +24,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: mbrush (at) ualberta (dot) ca
+email: mbrush (at) uvic (dot) ca
 phone: 
 address:
-  street: Department of Mathematical and Statistical Sciences
+  street: Department of Biology
           <br>
-          University of Alberta
-  city: Edmonton
-  region: AB
+          University of Victoria
+  city: Victoria
+  region: BC
   postcode:
   country: Canada
   country_code: CA
@@ -51,10 +51,10 @@ contact_links:
     icon_pack: ai
     name: Orcid
     link: 'https://orcid.org/0000-0002-3664-6327'
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/MicahBrush'
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Twitter
+#    link: 'https://twitter.com/MicahBrush'
   - icon: linkedin
     icon_pack: fab
     name: LinkedIn

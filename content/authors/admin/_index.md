@@ -11,7 +11,7 @@ bio: Postdoctoral fellow at the University of Victoria
 #  - course: BSc in Physics
 #    institution: Simon Fraser University
 #    year: 2010
-email: "mbrush (at) uvic(dot) ca"
+email: "mbrush (at) uvic (dot) ca"
 highlight_name: true
 #interests:
 #- Theoretical ecology
@@ -37,11 +37,11 @@ social:
   icon: orcid
   icon_pack: ai
   link: 'https://orcid.org/0000-0002-3664-6327'
-- display:
-    header: False
-  icon: twitter
-  icon_pack: fab
-  link: 'https://twitter.com/MicahBrush'
+#- display:
+#    header: False
+#  icon: twitter
+#  icon_pack: fab
+#  link: 'https://twitter.com/MicahBrush'
 - display:
     header: true
   icon: linkedin
