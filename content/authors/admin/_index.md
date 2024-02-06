@@ -62,4 +62,4 @@ I am a postdoctoral fellow in the Lewis Research Group at the University of Vict
 I completed my PhD in physics at UC Berkeley with Prof. John Harte. In my dissertation, “Macroecological patterns out of steady state”, I studied how ecological disturbance affects macroecological patterns, and how hybridizing information theory and mechanism can be used to describe these effects. Before that, I completed my MASt (Part III) at Cambridge University, and my undergrad in physics at Simon Fraser University.
 <br>
 <br>
-My CV is available {{< staticref "uploads/CVNov2021.pdf" "newtab" >}}here{{< /staticref >}} (updated November 2021).
+My CV is available {{< staticref "uploads/CV2024_Jan.pdf" "newtab" >}}here{{< /staticref >}} (updated January 2024).
