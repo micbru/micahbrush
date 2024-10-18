@@ -1,5 +1,5 @@
 ---
-bio: Postdoctoral fellow at the University of Victoria
+bio: Former postdoc at the University of Victoria
 #education:
 #  courses:
 #  - course: PhD in Physics
@@ -56,7 +56,10 @@ superuser: true
 title: Micah Brush
 ---
 <br>
-I am a postdoctoral fellow in the Lewis Research Group at the University of Victoria in the Department of Biology. I am interested in combining mechanistic approaches from dynamical systems and applied mathematics with statistical models and ecological data. I am currently working on mountain pine beetle dynamics, developing models to study how their spread changes in hosts with different levels of resistance and under climate change. The mountain pine beetle system requires accurate modelling in order to predict long term risk and outlook, which are relevant for managers, and the complicated life history makes mathematical modelling challenging. I am also working on hybrid mechanistic-machine learning methods to predict pine beetle outbreaks on a shorter time scale.
+From August 2024, I am the postdoctoral fellow administrator at the University of Victoria. Please reach out if you have any questions about my past research, or if you are a postdoc or grad student looking to move away from a research career!
+<br>
+<br>
+I am a former postdoctoral fellow in the Lewis Research Group at the University of Victoria in the Department of Biology. I am interested in combining mechanistic approaches from dynamical systems and applied mathematics with statistical models and ecological data. I worked on mountain pine beetle dynamics, developing models to study how their spread changes in hosts with different levels of resistance and under climate change. The mountain pine beetle system requires accurate modelling in order to predict long term risk and outlook, which are relevant for managers, and the complicated life history makes mathematical modelling challenging. I also worked on hybrid mechanistic-machine learning methods to predict pine beetle outbreaks on a shorter time scale.
 <br>
 <br>
 I completed my PhD in physics at UC Berkeley with Prof. John Harte. In my dissertation, “Macroecological patterns out of steady state”, I studied how ecological disturbance affects macroecological patterns, and how hybridizing information theory and mechanism can be used to describe these effects. Before that, I completed my MASt (Part III) at Cambridge University, and my undergrad in physics at Simon Fraser University.
