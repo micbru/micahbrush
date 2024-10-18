@@ -17,7 +17,7 @@ body of the graduate and professional students, and co-wrote a resolution suppor
 - **Co-founder and organizer of the Physics Graduate Student Seminar (2017--2018).** Along with Jonathan Liu, we designed this seminar to provide an opportunity for graduate students to present their work to their peers, and to build community.
 
 ## Committees
-- UVic Biology EDI Committee. Postdoc representative (2024--).
+- UVic Biology EDI Committee. Postdoc representative (2024).
 - UC Berkeley's Coordinated Community Review Team for Sexual and Gender-Based Violence and Misconduct. Respect is Part of Research representative (2020--2021).
 - UC Berkeley Committee on Teaching. Graduate student representative (2017--2020).
 - Berkeley Physics Graduate Admissions Committee. Graduate student representative (2019--2020).
